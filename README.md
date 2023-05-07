@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/a.bhinav0512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.bhinav0512" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kosmos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kosmos" height="30" width="40" /></a>
+<a href="https://www.instagram.com/a.bhinavgusain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.bhinav0512" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCagFSHrV-LcNOth_Kl3dNVg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kosmos" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhinav_gusain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinav_gusain" height="30" width="40" /></a>
-<a href="https://discord.gg/K0SM0S#0722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="K0SM0S#0722" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
